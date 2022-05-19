@@ -1,0 +1,26 @@
+{
+  "name": "ethereum_training_first_project",
+  "version": "1.0.0",
+  "description": "training project for ethereum",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enshertid/ethereum_training_first_project.git"
+  },
+  "author": "enshertid_naumenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enshertid/ethereum_training_first_project/issues"
+  },
+  "homepage": "https://github.com/Enshertid/ethereum_training_first_project#readme",
+  "dependencies": {
+    "ganache-cli": "^6.12.2",
+    "mocha": "^10.0.0",
+    "solc": "^0.8.13",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.7.3"
+  }
+}

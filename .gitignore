@@ -1,0 +1,9 @@
+/node_modules/
+/.idea/
+/package-lock.json
+/Inbox/node_modules/
+/Inbox/package-lock.json
+/Inbox/config.js
+/Lottery/config.js
+/Lottery/node_modules/
+/Lottery/package-lock.json
